@@ -1,0 +1,6 @@
+when we create a git repository, .git folder containing the meta data and other info is created. 
+this is what differentiates a git repository from a normal repository.
+
+staging area is an intermediate place that stores the files to be added in the next commit
+thsi is useful when we have to add more than one files to our commit at a time so
+we push both of them in the staging area first rather than passing them one by one directly
