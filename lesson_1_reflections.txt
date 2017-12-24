@@ -1,0 +1,25 @@
+This lesson helped me understand how important it is to keep different versions of 
+a file saved in case we need to undo some unnecessary changes.
+It also becomes highly convenient for us to if we have system capable of comparing
+ different versions of file and indicate specifically, the places where changes have  been made.
+
+Having access to the entire history of a file makes us more efficient programmer
+in the long run because we have complete record of the the changes made which helps 
+us learn from our previous mistakes and also to keep a track of the bigger path we have to traverse while 
+paying attention to the intricacies.
+
+SAVING MANUALLY
+pros:
+it permits us to commit logical changes.
+provides more flexibility
+makes commit history more meaningfful
+cons:
+there is a fair possibility of human error.
+if user forgets to save the changes he made, all the changes are lost.
+
+git log command gives us the entire history of commits made along with their unique id and message
+
+git diff commit_id_prev commit_id_current
+above command tells us where have the insertions and deletions been made.
+
+
