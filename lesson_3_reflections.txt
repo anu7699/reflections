@@ -6,7 +6,8 @@ When we have multiple members working on the same project or when we wish to sha
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Manual pull is preferable because the changes that we make in out local repository might not be ready 
+to be published just yet.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
